@@ -4,7 +4,6 @@ Thanks! Here's a refined and simplified version of your `README.md` that removes
 
 ---
 
-````markdown
 # Emmanuel M Jesse – Full‑Stack Developer Portfolio
 
 A clean and modern personal portfolio website built to showcase my skills, projects, education, and work experience as a full-stack developer based in Nairobi, Kenya.
