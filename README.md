@@ -1,6 +1,5 @@
 # FUTURE_FS_01
 
-Thanks! Here's a refined and simplified version of your `README.md` that removes the individual sections like About, Projects, Experience, etc., and focuses on core project details including **languages used**, **deployment**, and **basic usage instructions**.
 
 ---
 
